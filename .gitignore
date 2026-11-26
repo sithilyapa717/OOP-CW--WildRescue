@@ -1,0 +1,19 @@
+# Compiled class files (created when we build, never commit them)
+out/
+bin/
+*.class
+
+# IDE settings (personal to each computer)
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Log files created while the program runs
+logs/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
